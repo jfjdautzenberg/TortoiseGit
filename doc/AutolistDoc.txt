@@ -1,3 +1,5 @@
+Modified by JFJD
+
 As of revision 2659, TSVN now can parse all the files listed and checked
 in the commit dialog for words to use in the autocompletion list. This
 is a very handy feature when writing log messages since it helps you
